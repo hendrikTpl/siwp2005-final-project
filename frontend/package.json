@@ -28,7 +28,7 @@
     "@types/node": "^18",
     "cookie-universal-nuxt": "^2.2.2",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "nuxt": "^3.5.2",
     "nuxt-mongoose": "^0.0.9",
     "nuxt-socket-io": "^3.0.13",
